@@ -65,6 +65,11 @@ https://github.com/sankari-cs/Secure-Web-AI
 ## Connect with Me
 ---
 
+- LinkedIn: https://www.linkedin.com/in/sankaria
+- Email: sankari12200610@gmail.com
+
+
+
 ## GitHub Statistics
 
 <div align="center">
@@ -90,7 +95,3 @@ https://github.com/sankari-cs/Secure-Web-AI
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sankari-cs&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-- LinkedIn: https://www.linkedin.com/in/sankaria
-- Email: sankari12200610@gmail.com
-
