@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="images/banner.gif" width="100%" alt="GitHub Banner">
+</p>
+<p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020024,35:090979,100:00d4ff&text=Sankari%20A&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=fadeIn"/>
 
