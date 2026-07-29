@@ -1,109 +1,84 @@
-<div align="center">
+<p align="center">
 
-# Hi, I'm Sankari A
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020024,35:090979,100:00d4ff&text=Sankari%20A&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Cyber+Security+Student;Python+Developer;Flask+Developer;Web+Application+Security;Learning+Digital+Forensics;Future+Cyber+Security+Engineer" />
-
-### Cyber Security Student | Python Developer | Flask Developer | Web Application Security
-
-<p>
-<a href="https://github.com/sankari-cs">
-<img src="https://komarev.com/ghpvc/?username=sankari-cs&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
 </p>
 
-</div>
+<h1 align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+Hi, I'm Sankari A
+
+</h1>
+
+<h3 align="center">
+
+Cyber Security Student
+
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=Aspiring+Cyber+Security+Engineer;Web+Application+Security;Digital+Forensics;Incident+Response;Threat+Hunting;Vulnerability+Assessment;Secure+Software+Development;OWASP+Top+10;Python+for+Cyber+Security;Always+Learning+Always+Securing"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sankari-cs&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sankari-cs&label=Profile%20Views&color=00bfff&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sankari-cs?style=for-the-badge&color=00bfff"/>
+
+<img src="https://img.shields.io/github/stars/sankari-cs?style=for-the-badge&color=00bfff"/>
+
+</p>
 
 ---
 
 # About Me
 
-- B.Sc. Computer Science with Cyber Security
-- Passionate about Cyber Security and Secure Web Development
-- Interested in Digital Forensics and Incident Response
-- Developing secure web applications using Python and Flask
-- Continuously improving my cybersecurity and software development skills
-- Open to Internship and Placement opportunities
+- Cyber Security Student
+- Passionate about Secure Software Development
+- Interested in Digital Forensics
+- Learning Incident Response & Threat Hunting
+- Building Secure Python & Flask Applications
+- Exploring Web Application Security
+- Looking for Cyber Security Internship Opportunities
 
 ---
 
-# Technical Skills
+# Core Security Domains
 
-## Programming Languages
-
-- Python
-- SQL
-- HTML5
-- CSS3
-- JavaScript
-
-## Cyber Security
-
-- OWASP Top 10
 - Web Application Security
+- Digital Forensics
+- Incident Response
+- Threat Hunting
 - Vulnerability Assessment
 - Network Security
-- Digital Forensics
-- Cookie Security Analysis
-
-## Frameworks & Databases
-
-- Flask
-- SQLite
-
-## Tools
-
-- Kali Linux
-- Burp Suite
-- Wireshark
-- Nmap
-- Selenium
-- Git
-- GitHub
+- Secure Software Development
 
 ---
 
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sankari-cs&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankari-cs&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sankari-cs&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# Technology Stack
+# Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js,git,github,vscode"/>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+# Cyber Security Tools
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
@@ -113,70 +88,75 @@
 
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 
 </p>
 
 ---
 
-# Areas of Interest
+# GitHub Statistics
 
-- Web Application Security
-- Digital Forensics
-- Incident Response
-- Threat Hunting
-- Vulnerability Assessment
-- Secure Software Development
-- Cloud Security
-- Python Development
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sankari-cs&show_icons=true&theme=github_dark&hide_border=true"/>
 
-# Featured Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankari-cs&layout=compact&theme=github_dark&hide_border=true"/>
 
-| Project | Description |
-|----------|-------------|
-| **SecureWeb AI** | Intelligent Website Security and Cookie Privacy Analysis Tool |
-| **Future_CS_01** | Cyber Security Learning Project |
-| **Future_CS_02 – Phishing Awareness** | Security Awareness Project |
+</p>
 
 ---
 
-# Current Learning
+# Contribution Streak
 
-- Digital Forensics
-- Incident Response
-- Threat Hunting
-- Cloud Security
-- Malware Analysis
-- Secure Coding Practices
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sankari-cs&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Featured Project
+
+## SecureWeb AI
+
+Intelligent Website Security and Cookie Privacy Analysis Tool
+
+Features:
+
+- Cookie Analysis
+- Security Header Analysis
+- Tracker Detection
+- AI Security Recommendations
+- Dashboard Analytics
+- PDF Report Generation
+
+Repository
+
+https://github.com/sankari-cs/Secure-Web-AI
 
 ---
 
 # Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/sankaria">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:sankari12200610@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/sankari-cs">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
----
+<p align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020024,35:090979,100:00d4ff"/>
 
-### "Security is not a product, but a process."
-
-Thank you for visiting my profile.
-
-</div>
+</p>
